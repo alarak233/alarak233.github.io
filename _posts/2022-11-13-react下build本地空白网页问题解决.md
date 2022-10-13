@@ -4,7 +4,7 @@ tag:
 - react
 ---
 
-react构建项目到部署流程
+**react构建项目到部署流程**
 ```cmd
 %创建项目%
 npx create-react-app my-app
