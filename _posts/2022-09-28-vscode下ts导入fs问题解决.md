@@ -1,5 +1,5 @@
 ---
-title: typescript引入@types/node下的模块时，编辑器报错提示找不到对应模块解决方法
+title: ts引入@types/node下的模块时，编辑器提示找不到对应模块
 tag:
 - ts
 ---
